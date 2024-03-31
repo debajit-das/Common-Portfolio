@@ -1,0 +1,19 @@
+@media (max-width: 600px) {
+  /* ----------------------------FOOTER SECTION START----------------------------------- */
+  /* .footer-content-d {
+    row-gap: 2rem;
+  } */
+  .fooeter-description-d {
+    width: 100%;
+    /* text-align: justify; */
+  }
+  .footer-form-width-d {
+    width: 100%;
+  }
+  input[type="email"] {
+    height: 30px;
+    width: 200px;
+    outline: none;
+    padding: 0.5rem 2rem;
+  }
+}

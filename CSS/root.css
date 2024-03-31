@@ -1,0 +1,26 @@
+:root {
+  /* --------------- FONT SIZE -------------- */
+
+  --title-font-size: 3rem;
+  --h1-font-size: 2rem;
+  --h2-font-size: 1.5rem;
+  --h3-font-size: 1.17rem;
+
+  --text-font-size: 1rem;
+  --icon-font-size: 1rem;
+  --link-font-size: 1rem;
+  --small-font-size: 0.8rem;
+
+  /* ------------ FONT WEIGHT---------------- */
+
+  --bold-font-weight: 600;
+  --normal-font-weight: 500;
+
+  /* ----------------COLOR------------------- */
+
+  --hue: 280;
+  --primary-color: hsl(var(--hue), 8%, 15%);
+  --secondary-color: hsl(var(--hue), 0%, 100%);
+  --body-color: hsl(var(--hue), 60%, 99%);
+  --text-color-spcl: hsl(var(--hue), 0%, 75%);
+}
